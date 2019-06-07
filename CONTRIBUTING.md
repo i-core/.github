@@ -67,8 +67,7 @@ $ git add my/changed/files
 $ git commit
 ```
 
-Note that multiple commits often get squashed when they are landed (see the
-notes about [commit squashing](#commit-squashing)).
+Note that multiple commits often get squashed when they are landed.
 
 ### Commit message format
 
